@@ -1,28 +1,30 @@
-# Toshi SOFA App
+# BlockJudge Toshi(Token Browser)  App
 
-This repo helps you build a [Toshi app](https://www.toshi.org) in Javascript.
+You need to download Toshi app
+
+Iphone 
+https://itunes.apple.com/us/app/token-wallet/id1200463445?ls=1&mt=8
+
+Android 
+
+https://play.google.com/store/apps/details?id=com.tokenbrowser
+
+Open the Token app on your phone, and search for the "BlockJudge" from the 'favorites' tab. Alternatively, you can scan the QR code on the seed generator page from above to add your app as a contact.
+
+You can now start solving disputes with your app, making the world a better place and earn money!
 
 The sample bot can:
 
-* send messages
+* Say Hello to you!
 * send and request money
-* create simple UI for buttons and menus
-* store sessions and state for each user
+* It can make you an arbiter
+* You can watch the latest dispute with it
 
 TODO
 
-* sending image messages
-* creating web view UIs
+* Get all disputes from disputes pool
+* Grab reputation from ethereum blockchain
 
-## Launch your own Toshi app in 5 minutes
-
-Read our [guide to creating a Toshi app](http://developers.toshi.org/docs/creating-a-token-app).
-
-When ready, fork this repo and deploy it to Heroku.
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-Then check out [`src/bot.js`](src/bot.js) to start changing the bot logic.
 
 ## Running locally with Docker
 
