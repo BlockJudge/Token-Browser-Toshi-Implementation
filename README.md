@@ -20,6 +20,11 @@ The sample bot can:
 * It can make you an arbiter
 * You can watch the latest dispute with it
 
+![alt text](http://i.imgur.com/ikq3Vwi.jpg)
+
+
+![alt text](http://i.imgur.com/BjB5fo8.jpg)
+
 TODO
 
 * Get all disputes from disputes pool
