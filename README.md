@@ -20,12 +20,12 @@ The sample bot can:
 * It can make you an arbiter
 * You can watch the latest dispute with it
 
-#Arbiter Function
+# Arbiter Function
 
 ![alt text](http://i.imgur.com/ikq3Vwi.jpg)
 
 
-#Latest Dispute stored on Blockchain
+# Latest Dispute stored on Blockchain
 ![alt text](http://i.imgur.com/BjB5fo8.jpg)
 
 TODO
